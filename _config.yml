@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kait-a-Engineer
+name: Kait-a-Engineer: Exploring New Data Engineering Frontiers
 
 # Short bio or description (displayed in the header)
 description: Data Engineer from Austin, TX
@@ -18,12 +18,12 @@ avatar: https://avatars0.githubusercontent.com/u/61999372?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kaitlynschorr+github@gmail.com
   facebook:
   flickr:
   github: kait-a-engineer
-  instagram:
-  linkedin:
+  instagram: frozenunicorn
+  linkedin: kaitlynschorr
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
